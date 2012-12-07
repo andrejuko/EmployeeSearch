@@ -2,13 +2,13 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ch.goatbrain.employeesearch"
-        versionCode = "001"
-        version     = "0.0.1">
+        versionCode = "009"
+        version     = "0.0.9">
  
     <name>Employee Search</name>
  
     <description>
-        A simple employee directory application
+        A simple employee directory application based on the workshop of ccoenraets
     </description>
  
     <author href="http://goatbrain.ch" email="schleuderbeton@gmail.com">
